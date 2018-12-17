@@ -1,7 +1,7 @@
 # TreasureHunt
 
 ## General information
-Treasue hunt is a program to explore a table for treasure. The values in the table are clues. The integers are numbers between 11 and 55, where the ten's digit represents the row number and the unit's digit represents the column number of the cell containing the next clue. Starting at the upper left corner (at 1,1), the clues are used to guide the search through the table. The treasure is found in a cells whose value is the same as its coordinates.
+Treasue hunt is a program to explore a table for treasure. The values in the table are clues. Each cells contains a number between 11 and 55, where the ten's digit represents the row number and the unit's digit represents the column number of the cell containing the next clue. Starting at the upper left corner (at 1,1), the clues are used to guide the search through the table. The treasure is found in a cells whose value is the same as its coordinates.
 First the programs read in the treasure map data into a 5 by 5 array.
 
 ## TreasureHunt_1
