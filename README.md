@@ -23,5 +23,5 @@ Both implementation. Ask for a input file at the start of the program. Input_1.t
 Input contains five lines each containing five space separated integers. The integers are numbers between 11 and 55, where the ten's digit represents the row number and the unit's digit represents the column number of the cell containing the next clue.
 
 ### Output Format
-If the treasure is found, your program should output the index (row, column) of cells it visits during its search for treasure (separated by a single space). Cells must be separated by a newline “\n”.
-If there is no treasure, print “NO TREASURE”
+If the treasure is found, the program output the index (row, column) of cells it visits during its search for treasure (separated by a single space). Cells must be separated by a newline “\n”.
+If there is no treasure, it prints “NO TREASURE”
