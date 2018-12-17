@@ -19,7 +19,7 @@ How to run: python3 TreasureHunt_2.py
 
 ## Input/Output
 
-Both implementation. Ask for a input file at the start of the program. Input_1.txt and Input_2.txt are two example inputs.
+Both implementation. Ask for a input file at the start of the program. Input1.txt and Input2.txt are two example inputs.
 ### Input Format
 Input contains five lines each containing five space separated integers.
 
